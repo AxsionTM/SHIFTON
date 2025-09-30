@@ -1,4 +1,4 @@
-# Hi!
+# Hi! 👋
 This is my first website that I built myself, and I'm learning to be a programmer.
 
 Launch instructions:
